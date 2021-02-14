@@ -1,7 +1,9 @@
-# coding_challenge
+# Coding Challenge
 Jungi & Hui's Leetcode and HackRank solution in Python & Java
 
 ---
+
+## Track
 
 | Hac/ Lee      | Question |  URL   | Java/Python |
 | ----------- | ----------- | ----------- | ----------- |
