@@ -8,11 +8,11 @@ import sys
 
 # Complete the sockMerchant function below.
 def sockMerchant(n, ar):
-    # generate the sock pair
+    # generate the sock pair by comparing how many unique key appear in an arr
     # INPUT
-    # :n --> length of ar
-    # :ar --> sock data
-    # OUTPUT: return sock pair
+    # :n --> length of ar (int)
+    # :ar --> sock data (arr)
+    # OUTPUT: return sock in pair (int)
     pair_dict = {}
     result = 0
 
