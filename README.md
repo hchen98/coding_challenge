@@ -1,5 +1,5 @@
 # Coding Challenge
-Jungi & Hui's Leetcode and HackRank solution in Python & Java
+Leetcode and HackRank solution in Python & Java with Jungi and Micheal
 
 ---
 
